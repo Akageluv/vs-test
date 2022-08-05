@@ -20,3 +20,23 @@ while True :
 
     else: print ("Responda com bem ou mal")
     #O else fará com que qualquer coisa respondida sem ser "bem" ou "mal"voltará a mesma pergunta.
+
+
+
+#                _                       
+#                \`*-.                   
+#                 )  _`-.                
+#                .  : `. .               
+#                : _   '  \              
+#               ; *` _.   `*-._         
+#               `-.-'          `-.      
+#                  ;       `       `.    
+#                  :.       .        \   
+#                  . \  .   :   .-'   .  
+#                  '  `+.;  ;  '      :  
+#                  :  '  |    ;       ;-.
+#                  ; '   : :`-:     _.`* ;
+#         [bug] .*' /  .*' ; .*`- +'  `*'
+#               `*-*   `*-*  `*-*'       
+                                       
+                                       
