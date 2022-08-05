@@ -12,11 +12,7 @@ while True :
     [Bem]
 
     [Mal]
-
     ''')
-
-
-
     #if (Se) a resposta for bem, mostrrar "que bom continue assim"
     if resposta == "bem" or resposta == "Bem" or resposta == "ótimo" or resposta == "ok":
     
@@ -24,7 +20,7 @@ while True :
         break
 
     #Elif faz parte da lógica do if, como se fosse um "Se não" dentro do if.
-    elif resposta == "mal" or resposta == "Mal" or respoosta == "Ruim" or resposta == "ruim":
+    elif resposta == "mal" or resposta == "Mal" or resposta == "Ruim" or resposta == "ruim":
         
         print ("Não desanime!")
         break
@@ -51,3 +47,14 @@ while True :
 #                  ; '   : :`-:     _.`* ;
 #         [bug] .*' /  .*' ; .*`- +'  `*'
 #               `*-*   `*-*  `*-*'                                         
+ #$$$$$$\                                
+#$$  __$$\                               
+#$ /  \__| $$$$$$\   $$$$$$$\  $$$$$$$\ 
+#$$ |       \____$$\ $$  _____|$$  _____|
+#$$ |       $$$$$$$ |\$$$$$$\  \$$$$$$\  
+#$$ |  $$\ $$  __$$ | \____$$\  \____$$\ 
+#\$$$$$$  |\$$$$$$$ |$$$$$$$  |$$$$$$$  |
+# \______/  \_______|\_______/ \_______/ 
+                                        
+                                        
+                                        
